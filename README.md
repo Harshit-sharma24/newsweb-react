@@ -34,7 +34,8 @@ It allows users to explore the latest news across different categories like Tech
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
+screenshot.png.png
+
 
 ---
 
