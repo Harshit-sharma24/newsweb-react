@@ -1,4 +1,4 @@
-# 📰 NewsWeb - React News App
+# 📰 NewsWeb - React News 
 
 A modern and responsive **News Web Application** built using **React.js**.
 It allows users to explore the latest news across different categories like Technology, Sports, Business, and more.
@@ -32,18 +32,6 @@ It allows users to explore the latest news across different categories like Tech
 
 ---
 
-## 📸 Screenshot
-
-screenshot.png.png
-
-
----
-
-## 🔗 Live Demo
-
-(Add your deployed link here - Netlify/Vercel)
-
----
 
 ## 📂 Installation & Setup
 
